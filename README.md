@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lpastine" alt="lpastine" /></a> </p>
 
-- 🔭 I’m currently working at [Corebiz](https://www.corebiz.ag/en/)
+- 🔭 I’m currently working at [Samsung SDS Latin America](https://www.samsungsds.com/la/index.html)
 
-- 🌱 I’m currently learning **Java, Spring Boot, Microservices, DSA**
+- 🌱 I’m currently learning **Java, Spring, TypeScript, Angular**
 
-- 👯 I’m looking to collaborate on [ElasticSearch](https://github.com/elastic/elasticsearch)
-
-- 🤝 I’m looking for help with [Spring Boot](https://github.com/spring-projects/spring-boot)
-
-- 👨‍💻 All of my projects are available at [https://www.lucianopastine.com/](https://www.lucianopastine.com/)
-
-- 💬 Ask me about **React, Node, Java, Spring Boot**
+- 👨‍💻 All of my projects are available at [https://luciano-pastine.vercel.app/](https://luciano-pastine.vercel.app/)
 
 - 📫 How to reach me **lucianopastine.tech@gmail.com**
 
