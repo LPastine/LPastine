@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Samsung SDS Latin America](https://www.samsungsds.com/la/index.html)
 
-- 🌱 I’m currently learning **Java, Spring, TypeScript, Angular**
+- 🌱 Specialized in **Java, Spring, TypeScript, Angular**
 
 - 👨‍💻 All of my projects are available at [https://luciano-pastine.vercel.app/](https://luciano-pastine.vercel.app/)
 
